@@ -6,7 +6,9 @@ The dataset comprises time series data from train control rooms across BART stat
 - **Challenge**: This involves solving an imbalanced classification problem using time series data.
 
 ## Libraries Used
-- **Skorch**: Utilized for integrating PyTorch models with scikit-learn, making it easier to build and train neural networks within a familiar workflow.
-- **Optuna**: Applied for automatic hyperparameter optimization to enhance model performance and efficiency in predicting critical temperature thresholds.
+- **Skorch**: modeling
+- **Optuna**: hyperparameter optimization
 
-![Predictive Model Poster](assets/poster.png)
+<br><br>
+
+<img src="assets/poster.png" width="50%">
